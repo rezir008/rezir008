@@ -29,11 +29,5 @@
 </div>
 <br>
 
-## Stats
-##![](https://github-readme-stats.vercel.app/api?username=rezir008&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br>
-##![](https://github-readme-streak-stats.herokuapp.com/?user=rezir008)<br>
-##![](https://github-readme-stats.vercel.app/api/top-langs?username=rezir008&show_icons=true&locale=en&layout=compact)<br>
-
-##[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
   
  </div>
